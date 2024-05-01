@@ -1,0 +1,146 @@
+.projects-info-card {
+    min-height : 23rem ;
+    border-radius: 0.60rem;
+    border: 1px solid #6751b9;
+    background: rgba(0, 0, 0, 0.2);   
+}
+
+
+.projects-info-content {
+    padding : 2rem ;
+    flex: 1 1;
+    display: grid;
+    grid-gap: 3rem;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.project-info {
+    border: 1px solid #6751b9;
+    max-width : 20rem ;
+    padding: 1rem;
+    max-height: 290px;
+}
+
+.project-info p {
+    font-size: 0.9rem;
+    font-weight: 300;
+}
+
+.project-info img {
+    max-width: 278px;
+    }
+
+    img.skills-icons {
+        max-width: 1.5rem;
+        margin: 1rem 0.8rem;
+    
+    }
+    
+    img.skills-icons:hover {
+        transform: translateY(-0.5rem);
+    }
+    
+    .skills-icons {
+        display: flex;
+        position: relative;
+        top: -3rem;
+      
+    }
+
+  .project-lien {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    top: -13.8rem;
+    left: -2.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 8rem;
+    height: 2.5rem;
+   border-radius: 0.55rem;
+   border: #6751b9 1px solid ;
+   background-color: #060417;
+  }
+
+
+  @media (max-width: 1025px) {
+    .projects-info-content {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+  
+  @media (max-width: 783px) {
+
+    .projects-info-content {
+      overflow-y: hidden;
+      grid-template-columns: repeat(1, 1fr);
+
+  }
+
+  }
+  
+  @media (max-width: 600px) {
+    .project-info {
+      max-width: 100%;
+    }
+    .projects-info-content {
+      overflow-y: hidden;
+  }
+  .project-lien {
+    font-size: 0.7rem;
+    top: -11.7rem;
+    left: -1.8rem;
+    width: 7rem;
+    height: 2rem;
+  }
+  .project-info img {
+    width: 13rem;
+  }
+  .project-info {
+
+    max-height: 254px;  }
+  }
+
+  @media (max-width: 400px) {
+    .project-info {
+      max-width: 100%;
+    }
+    img.skills-icons {
+      max-width: 1.2rem;
+      margin: 1.5rem 0.8rem;
+  }
+    .projects-info-content {
+      overflow-x: hidden;
+      grid-template-rows: repeat(1, 1fr);
+  }
+
+    .project-info img {
+      width: 13rem;
+    }
+
+
+    .project-lien {
+      font-size: 0.7rem;
+      top: -12.7rem;
+      left: -1.8rem;
+      width: 7rem;
+      height: 2rem;
+      position: relative;
+    }
+  }
+
+  @media (max-width: 1319px) {
+
+    .projects-info-content {
+      flex-wrap: wrap;
+      display: flex;
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+        justify-content: center;
+    }
+}

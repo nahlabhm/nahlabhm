@@ -1,0 +1,71 @@
+.experience-card {
+    background:  #130f2a;
+    border-radius: 0.55rem;
+    border:  0.2rem solid #6751b9;
+    padding: 1.5rem;
+    margin: 0 1rem;
+    min-height: 448px;
+}
+
+.experience-card h6 {
+    font-size:  1.5rem;
+    font-weight: 500;
+    padding-bottom: 0.7rem;
+}
+
+.duration {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 400;
+    background: #6751b9;
+    border-radius: 0.5rem;
+    padding: 0.4rem 0.5rem;
+    margin-bottom: 1.3rem;
+}
+
+.experience-card ul li {
+    list-style: none;
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+    position: relative;
+}
+
+.experience-card ul li::after {
+    content: "";
+    width: 0.5rem;
+    height: 0.5rem;
+    background-color: #6751b9;
+    border-radius: 50%;
+    position: absolute;
+    left: -1.3rem;
+    top: 0.35rem;
+}
+
+img.skill-icon {
+    max-width: 2.33rem;
+    margin: 1rem 1rem;
+}
+
+img.skill-icon:hover {
+    transform: translateY(-0.5rem);
+}
+
+.skills-icon {
+    display: flex;
+  
+}
+
+@media (max-width: 768px) {
+    .experience-card {
+        margin: 0;
+    }
+
+    .experience-card h6 {
+        font-size: 0.95rem;
+    }
+
+    .experience-card ul li {
+        font-size: 0.70rem;
+    }
+}

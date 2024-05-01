@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.d01d06f0.css",
+    "main.js": "/myportfolio/static/js/main.6320a431.js",
+    "static/js/453.f66438e5.chunk.js": "/myportfolio/static/js/453.f66438e5.chunk.js",
+    "static/media/mockrocket-capture (5).png": "/myportfolio/static/media/mockrocket-capture (5).0221b9c4b951fdac0564.png",
+    "static/media/screenshot.png": "/myportfolio/static/media/screenshot.a762ab0f85043d3c7563.png",
+    "static/media/mockrocket-capture (1).png": "/myportfolio/static/media/mockrocket-capture (1).d38f7628b225ceb1e79b.png",
+    "static/media/a87527e3-ed38-47b5-9d31-1073f6d164e5-removebg-preview.png": "/myportfolio/static/media/a87527e3-ed38-47b5-9d31-1073f6d164e5-removebg-preview.62bf70ede9ae9ee02507.png",
+    "static/media/sqlite.svg": "/myportfolio/static/media/sqlite.75d135dfeeb140e38584512547e93f20.svg",
+    "static/media/icons8-express-js.svg": "/myportfolio/static/media/icons8-express-js.d91c10260d4508bc68149fc0bf48c1c0.svg",
+    "static/media/icons8-github.svg": "/myportfolio/static/media/icons8-github.d0f3210275ffad798458ae772e31772d.svg",
+    "static/media/django-community.svg": "/myportfolio/static/media/django-community.17054aee9ade418b4b378c7b9e99cf11.svg",
+    "static/media/slick.svg": "/myportfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/myportfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/icons8-linkedin.svg": "/myportfolio/static/media/icons8-linkedin.1554532311ef8403dd2821d5272633cd.svg",
+    "static/media/slick.ttf": "/myportfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/symfony.svg": "/myportfolio/static/media/symfony.70e9abd1eb62b349b0f123979e4c2262.svg",
+    "static/media/icons8-gmail .svg": "/myportfolio/static/media/icons8-gmail .0f8ace8ed3834f1772f864dec535ebbf.svg",
+    "static/media/nodejs-3.svg": "/myportfolio/static/media/nodejs-3.4f3c72c16844c2ae308bed34e6b242f9.svg",
+    "static/media/slick.woff": "/myportfolio/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/flutter.svg": "/myportfolio/static/media/flutter.9a496ae25b064ea252617eecbce6d6b7.svg",
+    "static/media/icons8-jwt.svg": "/myportfolio/static/media/icons8-jwt.8a766ec5b36b138a36c9f6b3957b4d1e.svg",
+    "static/media/bootstrap-5-1.svg": "/myportfolio/static/media/bootstrap-5-1.98585727bcfe0b1555649ec9bbab236c.svg",
+    "static/media/icons8-mongodb.svg": "/myportfolio/static/media/icons8-mongodb.5426b95f3c1cf59c2d7296d28358b72e.svg",
+    "index.html": "/myportfolio/index.html",
+    "static/media/css-3.svg": "/myportfolio/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html-1.svg": "/myportfolio/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "static/media/javascript-1.svg": "/myportfolio/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.d01d06f0.css.map": "/myportfolio/static/css/main.d01d06f0.css.map",
+    "main.6320a431.js.map": "/myportfolio/static/js/main.6320a431.js.map",
+    "453.f66438e5.chunk.js.map": "/myportfolio/static/js/453.f66438e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d01d06f0.css",
+    "static/js/main.6320a431.js"
+  ]
+}

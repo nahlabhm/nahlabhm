@@ -1,0 +1,20 @@
+.experience-container {
+    position: relative;
+    height: 100vh;
+    margin-top: 7rem;
+}
+
+.experience-container h5 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+}
+
+@media (max-width: 768px) {
+
+    .experience-container h5 {
+        font-size: 1.4rem;
+        margin-bottom: 2rem;
+    }
+}
+
