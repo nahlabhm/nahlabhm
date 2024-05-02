@@ -12,7 +12,7 @@ import mysqlIcon from '../assets/sqlite.svg';
 export const EXPERIENCE = [
 
     {
-        title: "Mobile Developer Intern",
+        title: "Mobile Developer Intern |DOT IT",
         date: "2022-2023 4months",
         responsibilities : [
             "Developing a white-label mobile e-commerce application",
@@ -32,8 +32,8 @@ export const EXPERIENCE = [
           ]
     },
     {
-        title: "Web Developer Intern",
-        date: "2021-2022 1months",
+        title: "Web Developer Intern |ANIWEL SOFT ",
+        date: "2021-2022 1month",
         responsibilities : [
             "This project aims to develop a web application focused on Document Management System (DMS), a digital solution aimed at optimizing and leveraging documents within a company.",
              "Design an intuitive and user-friendly interface for both administrators and regular users.",
@@ -51,7 +51,7 @@ export const EXPERIENCE = [
           ]
     },
     {
-        title: "Web Developer Intern",
+        title: "Web Developer Intern |HUTCHINSON",
         date: "2018-2019 4months",
         responsibilities : [
             " development of a web application dedicated to managing IT equipment",
